@@ -208,8 +208,8 @@ margin (medidas tales como 20px, 50px, 100px, etc.)
 Tanto el título como el párrafo te deberían quedar con: un color de fuente, un color de fondo, un tipo y tamaño de letra y un margen diferente al original.
 
 Te mostramos un ejemplo de un posible diseño a modo de inspiración: 
-![Alt text](image-3.png)
-![Alt text](image-2.png)
+![Alt text](./pwdc/mi_primera_web/img/image-3.png)
+![Alt text](./pwdc/mi_primera_web/img/image-2.png)
 Hay ciertos puntos a tener en cuenta que esperamos que puedan aprender para las próximas clases, ya que iremos profundizando sobre los mismos. 
 
 Todos los elementos de HTML tienen margin, padding, border y content. Es decir, que usan el modelo de cajas. 
