@@ -98,7 +98,7 @@ Para ello, sigue estos pasos en tu computadora, y luego comparte con tus compañ
 
 2. Dentro de ella, crea un archivo HTML llamado cajas.html y coloca el siguiente código
 
-```html:
+
 <!DOCTYPE html>
 <html lang="es">
   <head>
@@ -180,7 +180,7 @@ El objetivo de esta actividad es practicar y agregar propiedades de CSS a difere
 Ingresar a la siguiente página → www.codepen.io, y hacer clic en el botón de “Start coding” que se encuentra en la columna izquierda de la pantalla.
 
 En la pestaña de HTML, colocar el siguiente código:
-```html:
+
 <html>
   <head>
     <title>Ejemplo de CSS</title>
